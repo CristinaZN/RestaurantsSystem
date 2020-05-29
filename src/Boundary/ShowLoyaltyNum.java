@@ -13,8 +13,8 @@ import javax.swing.JButton;
 import javax.swing.SwingConstants;
 
 /**
- * @ClassName: ShowLoyaltyNum
- * @description: This page is to display the loyalty number after successful registration
+ * ClassName: ShowLoyaltyNum
+ * description: This page is to display the loyalty number after successful registration
  */
 public class ShowLoyaltyNum extends JFrame {
 

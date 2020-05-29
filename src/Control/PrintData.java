@@ -3,8 +3,8 @@ package Control;
 import java.io.*;
 
 /**
- * @ClassName: PrintData
- * @description: creat and write a txt
+ * ClassName: PrintData
+ * description: creat and write a txt
  */
 
 public class PrintData {

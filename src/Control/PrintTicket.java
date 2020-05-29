@@ -9,8 +9,8 @@ import java.util.List;
 import Entity.*;
 
 /**
- * @ClassName: PrintTicket
- * @description: generate the ticket as txt
+ * ClassName: PrintTicket
+ * description: generate the ticket as txt
  */
 
 public class PrintTicket

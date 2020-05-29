@@ -25,8 +25,8 @@ import java.awt.event.WindowEvent;
 import java.io.IOException;
 import javax.swing.border.LineBorder;
 /**
- * @ClassName: CustomerPayment
- * @description: This page is used to view the ordered dishes and select the payment method, select the hall food or take out, pay the bill, and print the small ticket.
+ * ClassName: CustomerPayment
+ * description: This page is used to view the ordered dishes and select the payment method, select the hall food or take out, pay the bill, and print the small ticket.
  */
 public class CustomerPayment extends JFrame {
 

@@ -3,8 +3,8 @@ package Control;
 import Control.User;
 import java.util.*;
 /**
- * @ClassName: CheckCusLog
- * @description: Used to check customer login information, and generate a list contain information
+ * ClassName: CheckCusLog
+ * description: Used to check customer login information, and generate a list contain information
  */
 public class CheckCusLog {
 

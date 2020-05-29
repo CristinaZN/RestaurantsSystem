@@ -4,8 +4,8 @@ import java.io.File;
 import java.util.List;
 
 /**
- * @ClassName: Bill
- * @description: Used to store the user information from the database
+ * ClassName: Bill
+ * description: Used to store the user information from the database
  */
 public class Bill {
     //membershipNumber,password,firstName,surname,email,phoneNumber,isAdmin,virtualStamps

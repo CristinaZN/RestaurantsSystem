@@ -4,8 +4,8 @@ import java.util.*;
 
 //membershipNumber,password,firstName,surname,email,phoneNumber,isAdmin,virtualStamps
 /**
- * @ClassName: User
- * @description: store user information from the database
+ * ClassName: User
+ * description: store user information from the database
  */
 
 public class User {

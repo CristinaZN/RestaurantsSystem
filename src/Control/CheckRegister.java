@@ -10,8 +10,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * @ClassName: CheckRegister
- * @description: Used to check the data format when user creat an account
+ * ClassName: CheckRegister
+ * description: Used to check the data format when user creat an account
  */
 public class CheckRegister {
     private User user;

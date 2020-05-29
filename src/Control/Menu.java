@@ -4,8 +4,8 @@ import java.io.File;
 import java.util.List;
 
 /**
- * @ClassName: Menu
- * @description: Store the menu information
+ * ClassName: Menu
+ * description: Store the menu information
  */
 public class Menu {
     String type;

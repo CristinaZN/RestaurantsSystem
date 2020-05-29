@@ -13,8 +13,8 @@ import java.util.List;
 import static java.lang.Math.round;
 
 /**
- * @ClassName: CheckCusLog
- * @description: read and search menu from the database
+ * ClassName: CheckCusLog
+ * description: read and search menu from the database
  */
 public class MenuList {
     public static boolean exportCsv(File file, List<String> dataList){//success-true

@@ -22,8 +22,8 @@ import java.awt.event.WindowEvent;
 import java.util.ArrayList;
 import java.util.List;
 /**
- *@ClassName: CustomerLogin
- *@description: This is the customer's login interface. Enter the correct member number and password to complete the login and enter the order interface.
+ *Classname: CustomerLogin
+ *description: This is the customer's login interface. Enter the correct member number and password to complete the login and enter the order interface.
  */
 public class CustomerLoginIn extends JFrame {
 

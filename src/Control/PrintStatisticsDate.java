@@ -9,8 +9,8 @@ import java.util.List;
 
 public class PrintStatisticsDate {
     /**
-     * @ClassName: PrintStatisticDate
-     * @description: creat and store the statistic information in database
+     * ClassName: PrintStatisticDate
+     * description: creat and store the statistic information in database
      */
 
     public static String dateToWeek(String datetime) {

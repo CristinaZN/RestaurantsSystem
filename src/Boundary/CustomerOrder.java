@@ -18,8 +18,8 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
 /**
- * @ClassName: CustomerOrder
- * @description: This page is used by customers to order.
+ * ClassName: CustomerOrder
+ * description: This page is used by customers to order.
  */
 
 public class CustomerOrder extends JFrame {
@@ -467,8 +467,8 @@ public class CustomerOrder extends JFrame {
 
 }
 /**
- * @ClassName: ShowABowel
- * @description: This panel is presented when the customer press the button
+ * ClassName: ShowABowel
+ * description: This panel is presented when the customer press the button
  *
  **/
 class ShowABowl implements ActionListener{
@@ -510,8 +510,8 @@ class ShowABowl implements ActionListener{
     }
 }
 /**
- * @ClassName: Deleitem
- * @description: This class is used to delete a noodle if customer doesn't want
+ * ClassName: Deleitem
+ * description: This class is used to delete a noodle if customer doesn't want
  *
  **/
 class Deleitem implements ActionListener{
@@ -531,9 +531,9 @@ class Deleitem implements ActionListener{
         parent.repaint();
     }
 }
-/**@ClassName:
+/**ClassName:
  *  ANoodle
- * @description: This panel is used to show the details of the customer's option
+ * description: This panel is used to show the details of the customer's option
  *
  **/
 class ANoodle extends JPanel{

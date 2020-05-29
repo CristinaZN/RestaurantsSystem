@@ -17,8 +17,8 @@ import javax.swing.JPasswordField;
 import javax.swing.JButton;
 
 /**
- * @ClassName: CustomerRegister
- * @description: This is the customer's registration interface. When all the registration information meets the requirements, you can register as a member/
+ * ClassName: CustomerRegister
+ * description: This is the customer's registration interface. When all the registration information meets the requirements, you can register as a member/
  */
 public class CustomerRegister extends JFrame {
 

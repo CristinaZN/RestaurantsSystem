@@ -10,8 +10,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @ClassName: Bill List
- * @description: Read and search bill information from the database
+ * ClassName: Bill List
+ * description: Read and search bill information from the database
  */
 public class BillList {
     //success-true
