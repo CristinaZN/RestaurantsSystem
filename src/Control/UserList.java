@@ -98,7 +98,7 @@ public class UserList {
         List<String> dataList=UserList.importCsv(new File("src/Database/UserList.csv"));
         List<User> userList = new ArrayList<User>(dataList.size());
         if(dataList!=null && !dataList.isEmpty()){
-            //打印所有数据
+            //print all the data
             System.out.println("1");
             for(int i=0; i<dataList.size();i++ ){
                 if(i!=0){
