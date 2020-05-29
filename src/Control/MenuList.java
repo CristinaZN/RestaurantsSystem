@@ -95,7 +95,7 @@ public class MenuList {
         List<String> dataList=MenuList.importCsv(new File("src/Database/MenuList.csv"));
         List<Menu> menuList = new ArrayList<Menu>(dataList.size());
         if(dataList!=null && !dataList.isEmpty()){
-            //打印所有数据
+            //print all the data
             for(int i=0; i<dataList.size();i++ ){
                 if(i!=0){
                     String s=dataList.get(i);
