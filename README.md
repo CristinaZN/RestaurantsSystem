@@ -14,7 +14,7 @@ It is a Coursework
 
   2.  Get the application
 
-     `git clone https://github.com/CristinaZN/RestaurantsSystem.git` 
+        `git clone https://github.com/CristinaZN/RestaurantsSystem.git` 
 
   3. Cd to the source directory
 
